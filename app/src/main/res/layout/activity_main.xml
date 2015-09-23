@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <net.soroushjavdan.customfontwidgets.CTextView
+            android:text="@string/hello_world"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <net.soroushjavdan.customfontwidgets.CTextView
+            android:text="@string/hello_world"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            custom:customFont="iran_sans"
+            android:layout_height="wrap_content" />
+
+        <net.soroushjavdan.customfontwidgets.CButton
+            android:text="@string/hello_world"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            custom:customFont="Lemondrop"
+            android:layout_height="wrap_content" />
+
+        <net.soroushjavdan.customfontwidgets.CRadioButton
+            android:text="@string/hello_world"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            custom:customFont="RightWay"
+            android:layout_height="wrap_content" />
+
+        <net.soroushjavdan.customfontwidgets.CEditText
+            android:text="@string/hello_world"
+            android:layout_width="wrap_content"
+            custom:customFont="Roboto_Bold"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content" />
+
+        <net.soroushjavdan.customfontwidgets.CCheckBox
+            android:text="@string/hello_world"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            custom:customFont="alcubierre"
+            android:layout_height="wrap_content" />
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
