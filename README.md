@@ -1,6 +1,6 @@
 # CustomFontWidgets
 
- What is it?
+## What is it?
   -----------
 It's simple library that allows you to use your custom font in android views.
 the CustomFontWidgets let you :
@@ -9,7 +9,7 @@ set default font for your project .
 just need to set customFont attribute with value of your font name for the Widgets.
 
 
- How to use it
+## How to use it
   -----------
 
 **Step 1 :**
@@ -63,7 +63,10 @@ and change your AndroidManifest to something like this
   
   
 ## Screenshots
-  ![light](https://drive.google.com/uc?id=0B3UucKoY-F7Ycmota1hrZlB2ZXM)
+  ![light](https://drive.google.com/uc?id=0B3UucKoY-F7YMGRsZVpZZGlDems)
   
+
+## PS
+ the library has iranSnas ttf 
 
 
