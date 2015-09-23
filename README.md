@@ -3,9 +3,13 @@
 ## What is it?
   -----------
 It's simple library that allows you to use your custom font in android views.
-the CustomFontWidgets let you :
+
+**the CustomFontWidgets let you :**
+
 set diffrent font for each of your view .
+
 set default font for your project .
+
 just need to set customFont attribute with value of your font name for the Widgets.
 
 
