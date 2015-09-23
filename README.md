@@ -15,6 +15,7 @@ just need to set customFont attribute with value of your font name for the Widge
 **Step 1 :**
 Create sub folder in asset folder and save your fonts inside it.
 ![light](https://drive.google.com/uc?id=0B3UucKoY-F7YTE0xSEFvQzJvSHc)
+
   
 **Step 2 :**
   creat class and extend from Application
@@ -65,8 +66,4 @@ and change your AndroidManifest to something like this
 ## Screenshots
   ![light](https://drive.google.com/uc?id=0B3UucKoY-F7YMGRsZVpZZGlDems)
   
-
-## PS
- the library has iranSnas ttf 
-
 
