@@ -54,13 +54,22 @@ and change your AndroidManifest to something like this
         android:layout_height="match_parent"
         xmlns:custom="http://schemas.android.com/apk/res-auto"
         android:orientation="vertical">
-
+      
+        <!--  library has iran_sans font by default so you dont need to add it to your fonts folder -->
         <net.soroushjavdan.customfontwidgets.CTextView
             android:text="@string/hello_world"
             android:layout_width="wrap_content"
             android:layout_marginTop="10dp"
             custom:customFont="iran_sans"
             android:layout_height="wrap_content" />
+    
+        <net.soroushjavdan.customfontwidgets.CTextView
+            android:text="@string/hello_world"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            custom:customFont="Lemondrop"
+            android:layout_height="wrap_content" />
+    
     
     </<LinearLayout>
 
