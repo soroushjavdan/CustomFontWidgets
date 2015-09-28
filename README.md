@@ -79,6 +79,26 @@ and change your AndroidManifest to something like this
 ## Screenshots
   ![light](https://drive.google.com/uc?id=0B3UucKoY-F7YMGRsZVpZZGlDems)
   
+## Gradle
+  **Step 1 :**
+  Select your build system: Gradle 
+  **Step 2 :**
+  Add the specific repository to your build file:
+  ```
+  repositories {
+    maven {
+        url "https://jitpack.io"
+    }
+  }
+  ```
+  **step 3 :**
+  Add the dependency in your build file (do not forget to specify the correct qualifier, usually 'aar'):
+   ```
+  dependencies {
+    compile 'com.github.soroushjavdan:CustomFontWidgets:29426641f6'
+  }
+  ```
+  
 ## License
 
 ```
