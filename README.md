@@ -82,6 +82,7 @@ and change your AndroidManifest to something like this
 ## Gradle
   **Step 1 :**
   Select your build system: Gradle 
+  
   **Step 2 :**
   Add the specific repository to your build file:
   ```
