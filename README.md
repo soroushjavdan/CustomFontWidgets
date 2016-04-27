@@ -1,5 +1,5 @@
 # CustomFontWidgets
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ProgressProfileView-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2563)
+[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-CustomFontWidgets-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2563)
 
 ## What is it?
   -----------
